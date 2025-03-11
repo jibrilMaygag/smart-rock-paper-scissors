@@ -21,7 +21,7 @@ A Rock Paper Scissors game with an AI that adapts its choices based on previous 
 ## 📷 Screenshots  
 Here’s what the game looks like:  
 
-![Game Screenshot](screenshots/screenshot.png)  
+![Game Screenshot](screenshots/Screenshot.png)  
 
 
 ## 📏 Features  
